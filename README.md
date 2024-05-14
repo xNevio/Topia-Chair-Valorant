@@ -2,7 +2,6 @@
 Topia Chair Valorant/2024 Self Creat
 
 1. Download first Medal (https://medal.tv/)
-2. Disable Windows Security
 
 Compability
 OS: Windows 10 version 1909 - 22H2, Windows 11 any version CPU: Intel, AMD Motherboard: Any
